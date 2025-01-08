@@ -90,7 +90,7 @@ Summarized insights derived from the historical dream data, such as:
 ## **Project Structure**
 ```
 dream-analysis/
-├── Dream_Analysis.ipynb     # Jupyter notebook for dream analysis
+├── main.ipynb     # Jupyter notebook for dream analysis
 ├── dream_records.csv         # CSV file storing dream data
 ├── README.md                 # Project documentation
 └── requirements.txt          # List of required Python libraries
